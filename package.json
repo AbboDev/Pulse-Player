@@ -1,0 +1,28 @@
+{
+  "name": "pulse-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/crystalware/pulse-player.git"
+  },
+  "keywords": [
+    "player",
+    "mp3",
+    "ogg",
+    "avi",
+    "music",
+    "records"
+  ],
+  "author": "Thomas Abbondi <abbondi.thomas@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/crystalware/pulse-player/issues"
+  },
+  "homepage": "https://gitlab.com/crystalware/pulse-player#README"
+}
